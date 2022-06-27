@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1656354465 source:c:\users\mateusz\desktop\kurs c++\kurs c++ udemy - zadania\obliczaniepolafigur\main.cpp
+	<iostream>
+	<string>
+
+1656355364 source:c:\users\mateusz\desktop\kurs c++\kurs c++ udemy - zadania\calculationareas\main.cpp
+	<iostream>
+	<string>
+
